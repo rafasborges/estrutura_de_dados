@@ -1,4 +1,3 @@
-
 def busca(lista, elem):
     "Retorna o índice do elem se ele estiver na lista, caso contrário retorna None"
     for i in range(len(lista)):
