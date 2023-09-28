@@ -2,7 +2,7 @@
 class Node:
     def __init__(self, data):
         self._data = data
-        self._nexte = None
+        self._next = None
     
 class lista_encadeada:
     def __init__(self):
